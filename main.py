@@ -11,11 +11,11 @@ sv = Service('枝网工具')
 _flt = FreqLimiter(30)
 Essay = essay()
 id_dict = {
-    '672346917': ['向晚', '晚晚', 'Ava', 'AVA', 'ava', '顶晚人', '向晚大魔王'],
+    '672346917': ['向晚', '晚晚', 'Ava', 'AVA', 'ava', '顶碗人', '向晚大魔王'],
     '672353429': ['贝拉', '拉姐', 'Bella', 'BELLA', 'bella', '贝极星', '贝拉kira'],
     '351609538': ['珈乐', '王力口乐', 'Carol', 'CAROL', 'carol', '皇珈骑士', '乐', '音乐珈', '珈乐Carol'],
     '672328094': ['嘉然', '然然', 'Diana', 'DIANA', 'diana', '嘉心糖', '圣嘉然', '嘉然今天吃什么'],
-    '672342685': ['乃琳', '乃0', 'Eileen', 'EILEEN', 'eileen', '奶淇琳', '乃淇琳', '乃琳Queen'],
+    '672342685': ['乃琳', '乃0', 'Eileen', 'EILEEN', 'eileen', '奶淇琳', '乃淇琳', '奶淇淋','乃琳Queen'],
     '703007996': ['A-SOUL_Official', 'ASoul', 'asoul', 'ASOUL', 'Asoul', '官号']
 }
 @sv.on_prefix(('枝江作文', '枝江作文展', '枝江小作文')) 
